@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-ilang",
+  "version": "1.0.0",
+  "description": "Tree Sitter Grammar for ilang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Wengler",
+  "license": "MIT"
+}
